@@ -9,5 +9,5 @@ setup(
     author_email='barskyi69@gmail.com',
     license='MIT',
     packages=find_namespace_packages(),
-    entry_points={'console_scripts': ['clean-folder = clean_folder.clean.py:search_path']}
+    entry_points={'console_scripts': ['clean-folder = clean_folder.clean:search_path']}
 )
