@@ -1,0 +1,4 @@
+clean_folder
+dist
+myvenv
+venv
